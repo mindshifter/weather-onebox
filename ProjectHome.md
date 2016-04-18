@@ -1,0 +1,3 @@
+The MC+A Weather OneBox for the Google Search Appliance returns weather information for anywhere in the world simply by entering a search query such as 'Weather Chicago'.  It is implemented in C# as a .NET web service. See the README for more details.
+
+Our souce and project is available to freely download.  All that we ask is that you register with us first to obtain the files.  Please click [here](http://www.mcplusa.com/labs/) to do so.
